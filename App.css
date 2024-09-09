@@ -1,0 +1,41 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/1007768414/photo/blue-sky-with-bright-sun-and-clouds.webp?a=1&b=1&s=612x612&w=0&k=20&c=Dbpa9jxwFTZnW-yyyJccEU_FqhEL3fXqMIP68kbLUFw=);
+    background-repeat: no-repeat;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   background-size: cover;
+}
+.container{
+    background-color: rgba(184, 224, 219, 0.3);
+    width: 500px;
+    margin: 25px auto;
+    text-align: center;
+    border-radius: 7px;
+    padding: 50px;
+}
+input{
+    margin: 30px;
+    border-radius: 8px;
+    width: 75%;
+    padding: 10px;
+    border-color: white;
+    outline: none;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+button{
+    margin-bottom: 30px;
+    padding: 11px;
+    background-color: rgb(32, 164, 187);
+    border: none;
+    font-size: 20px;
+      width: 45%;
+}
+.city{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.temp{
+    font-size: 18px;
+}
+.description{
+    font-size: 18px;
+}
